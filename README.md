@@ -1,6 +1,8 @@
 <h3 align="center">✨Hello All!!!✨</h3>
 <p align="center">I'm Alba Navarro and I'm a Full Stack dev Student (hope to be a Junior very soon)</p>
 
+<img src="https://res.cloudinary.com/dua6dm8ik/image/upload/v1644164155/code_u5rdln.jpg" alt="code like a girl">
+
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 

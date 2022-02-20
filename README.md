@@ -1,4 +1,4 @@
-<h3 align="center">✨Hello All!!!✨</h3>
+<h3 align="center">✨Hello World!!!✨</h3>
 <p align="center">I'm Alba Navarro and I'm a Full Stack dev Student (hope to be a Junior very soon)</p>
  
  <div align="center">

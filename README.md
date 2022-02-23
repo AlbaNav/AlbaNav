@@ -2,7 +2,7 @@
 <p align="center">I'm Alba Navarro and I'm a Full Stack dev Student (hope to be a Junior very soon)</p>
  
  <div align="center">
-<img src="https://res.cloudinary.com/dua6dm8ik/image/upload/v1644164480/code_umgfjd.jpg" alt="code like a girl">
+<img src="https://res.cloudinary.com/dua6dm8ik/image/upload/v1644164480/code_umgfjd.jpg" alt="code like a girl" height="150" width="150">
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
